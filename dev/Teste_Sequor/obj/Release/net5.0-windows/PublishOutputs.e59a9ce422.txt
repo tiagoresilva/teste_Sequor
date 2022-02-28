@@ -1,0 +1,6 @@
+C:\Users\Tiago\Desktop\Sequor\publish\Teste_Sequor.exe
+C:\Users\Tiago\Desktop\Sequor\publish\Teste_Sequor.dll
+C:\Users\Tiago\Desktop\Sequor\publish\Teste_Sequor.deps.json
+C:\Users\Tiago\Desktop\Sequor\publish\Teste_Sequor.runtimeconfig.json
+C:\Users\Tiago\Desktop\Sequor\publish\Teste_Sequor.pdb
+C:\Users\Tiago\Desktop\Sequor\publish\Newtonsoft.Json.dll

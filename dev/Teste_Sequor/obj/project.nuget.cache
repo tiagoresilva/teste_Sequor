@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJH0WJRqslt9dgl9StKPD1XfL+uMheeQvqxUYXxPUG74bVKdRsUfUU5IQxQbIM1zIkzb4pgbmOy7RXtm4UjqAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tiago\\Desktop\\Sequor\\Teste_Sequor\\Teste_Sequor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiago\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
